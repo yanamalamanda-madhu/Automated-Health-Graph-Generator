@@ -1,4 +1,11 @@
 # Automated Health Graph Generator
+## Table of Contents :
+ 1. Introduction
+ 2. Requirements
+ 3. Health reports in image format
+ 4. Health reports in CSV file format
+ 5. Results
+ 6. Conclusion
 ## Introduction:
 It is very difficult to understand the medical reports for normal people who didn’t study MBBS. And 
 a specialist is needed to analyse the medical reports and tells about the patient health problem, condition and 
