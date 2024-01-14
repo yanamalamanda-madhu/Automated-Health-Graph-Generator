@@ -20,5 +20,54 @@ in monitoring and recording all the vital information of a particular patient by
 prior work on information extraction has focused on extracting information from texts in digital documents.
 With this automated graph generator, patient data can be extracted, moved, integrated, and accessed seamlessly 
 so that the patient is never inconvenienced.
+## Requirements:
+### 1 . Pandas 
+### Installing Pandas
+We need to install it in our system using the pip command. Type the cmd command in the search box and locate the folder using the cd command where python-pip file has been installed. After locating it, type the command:</br>
+```md
+pip install pandas
+```
+### Importing Pandas
+After the pandas have been installed into the system, you need to import the library. This module is generally imported as follows:
+```md
+import pandas as pd
+```
+### 2 . Matplotlib
+### Installing Matplotlib
+We need to install it in our system using the pip command. Type the cmd command in the search box and locate the folder using the cd command where python-pip file has been installed. After locating it, type the command:</br>
+```md
+pip install matplotlib
+```
+### Importing Matplotlib
+After the Matplotlib have been installed into the system, you need to import the library. This module is generally imported as follows:
+```md
+import matplotlib.pyplot as plt
+```
+```md
+from matplotlib.widgets import *
+```
+```md
+import matplotlib.gridspec as gridspec
+```
+### 3 . Glob
+### Importing glob
+This module is generally imported as follows:
+```md
+from glob import glob
+```
+### 4 . Mplcursors
+### Installing Mplcursors
+We need to install it in our system using the pip command. Type the cmd command in the search box and locate the folder using the cd command where python-pip file has been installed. After locating it, type the command:</br>
+```md
+pip install mplcursors
+```
+### Importing Mplcursors
+After the Mplcursors have been installed into the system, you need to import the library. This module is generally imported as follows:
+```md
+import mplcursors
+```
+
+
+
 
  
