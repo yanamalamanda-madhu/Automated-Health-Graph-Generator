@@ -85,5 +85,14 @@ import mplcursors
 [person 2 health report document 2](Health_reports_person_2-csv_format/IMG_20230205_013735.jpg.csv)</br>
 [person 2 health report document 3](Health_reports_person_2-csv_format/IMG_20230205_013735.jpg2.csv)</br>
 
+## Results
+### Results of person 1
+![results of person 1 image 1](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Results/Results%20of%20person%201.png)</br>
+![results of person 1 image 2](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Results/Results%20of%20person%201%20-1.png)</br>
+### Results of person 2
+![results of person 2 image 1](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Results/Results%20of%20person%202.png)</br>
+![results of person 2 image 2](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Results/Results%20of%20person%202%20-%201.png)</br>
+
+
 
  
