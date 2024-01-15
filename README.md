@@ -7,19 +7,8 @@
  5. Results
  6. Conclusion
 ## Introduction:
-It is very difficult to understand the medical reports for normal people who didn’t study MBBS. And 
-a specialist is needed to analyse the medical reports and tells about the patient health problem, condition and 
-health status of the person, medicine, curation, remedy, solution for the problem, and if need of any changes 
-in the food habits that the patient should follow. To derive meaningful insights from voluminous healthcare 
-data, it is essential to convert it into machine understandable knowledge. Currently, machine understandable 
-domain specific healthcare knowledge curation framework does not exist for complete body of human. By 
-these automated systems helps extraction of medical reports data and the data is saved in the machine 
-understandable format. The better way to convey the medical health reports is graphs or images. After the 
-extraction of medical health data, graph is generated based on the extracted data. The automated graph helps 
-in monitoring and recording all the vital information of a particular patient by maintaining all the records. Most 
-prior work on information extraction has focused on extracting information from texts in digital documents.
-With this automated graph generator, patient data can be extracted, moved, integrated, and accessed seamlessly 
-so that the patient is never inconvenienced.
+It is very difficult to understand the medical reports for normal people who didn’t study MBBS. And a specialist is needed to analyse the medical reports and tells about the patient health problem, condition and health status of the person, medicine, curation, remedy, solution for the problem, and if need of any changes in the food habits that the patient should follow. To derive meaningful insights from voluminous healthcare data, it is essential to convert it into machine understandable knowledge. Currently, machine understandable 
+domain specific healthcare knowledge curation framework does not exist for complete body of human. By these automated systems helps extraction of medical reports data and the data is saved in the machine understandable format. The better way to convey the medical health reports is graphs or images. After the extraction of medical health data, graph is generated based on the extracted data. The automated graph helps in monitoring and recording all the vital information of a particular patient by maintaining all the records. Most prior work on information extraction has focused on extracting information from texts in digital documents.With this automated graph generator, patient data can be extracted, moved, integrated, and accessed seamlessly so that the patient is never inconvenienced.
 ## Requirements:
 ### 1 . Pandas 
 ### Installing Pandas
@@ -92,6 +81,11 @@ import mplcursors
 ### Results of person 2
 ![results of person 2 image 1](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Results/Results%20of%20person%202.png)</br>
 ![results of person 2 image 2](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Results/Results%20of%20person%202%20-%201.png)</br>
+
+## Conclusion
+An automatic health graph generator can be a useful tool in healthcare settings for tracking and monitoring  patient health data over time. By automating the graph generation process, healthcare professionals can save time and resources while also ensuring accuracy and consistency in the presentation of data. However, it is important to ensure that the data being used for graph generation is reliable and meaningful, and that appropriate data privacy  and security measures are in place. Additionally, healthcare professionals should interpret the graphs in the context of the patient's overall health status and medical history, and not rely solely on the graphs for clinical decision making. While an automatic health graph generator can be a valuable tool for presenting and visualizing patient health data over time, healthcare professionals should use it as a supplement to their clinical judgment and 
+expertise, rather than relying solely on the graphs for making medical decisions. The graphs can provide useful insights and trends in the patient's health data, but they should not be used as the only basis for diagnosis or treatment decisions. Healthcare professionals should interpret the graphs in the context of the patient's overall health status, medical history, and any other relevant factors, and make decisions based on a comprehensive assessment of all available information.
+
 
 
 
