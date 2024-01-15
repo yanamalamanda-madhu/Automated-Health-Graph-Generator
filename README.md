@@ -75,6 +75,15 @@ import mplcursors
 ![person 2 health report document 2](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Health_reports_person_2/Lipid%20screen%20serum.jpeg)
 ![person 2 health report document 3](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Health_reports_person_2/Liver%20kidney%20panel%20serum%20.jpeg)
 
+## Health reports in CSV file format
+### sample health reports of person 1
+[person 1 health report document 1](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Health_reports_person_1-csv_format/page-1_table-2.csv)</br>
+[person 1 health report document 1](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Health_reports_person_1-csv_format/page-1_table-3.csv)</br>
+[person 1 health report document 2](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Health_reports_person_1-csv_format/page-1_table-1.csv)</br>
+### sample health reports of person 2
+[person 2 health report document 1](Health_reports_person_2-csv_format/IMG_20230205_013735.jpg1.csv)</br>
+[person 2 health report document 2](Health_reports_person_2-csv_format/IMG_20230205_013735.jpg.csv)</br>
+[person 2 health report document 3](Health_reports_person_2-csv_format/IMG_20230205_013735.jpg2.csv)</br>
 
 
  
