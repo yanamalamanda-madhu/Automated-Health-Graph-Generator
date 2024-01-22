@@ -55,7 +55,7 @@ After the Mplcursors have been installed into the system, you need to import the
 ```md
 import mplcursors
 ```
-### Importing OS
+### 5 . Importing OS
 Python OS module provides the facility to establish the interaction between the user and the operating system.This module is generally imported as follows:
 ```md
 import os
