@@ -55,6 +55,11 @@ After the Mplcursors have been installed into the system, you need to import the
 ```md
 import mplcursors
 ```
+### 5 . Importing OS
+Python OS module provides the facility to establish the interaction between the user and the operating system.This module is generally imported as follows:
+```md
+import os
+```
 ## Health reports in image format
 ### sample health reports of person 1
 ![person 1 health report document 1](https://github.com/yanamalamanda-madhu/Automated-Health-Graph-Generator/blob/main/Health_reports_person_1/Complete%20blood%20picture.jpeg)
